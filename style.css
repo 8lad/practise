@@ -1,3 +1,7 @@
 h1 {
     text-transform: uppercase;
 }
+
+.about-title {
+    color: green;
+}
